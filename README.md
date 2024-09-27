@@ -1,3 +1,4 @@
+bg-changer:
 bg-changer is a simple React application that allows users to change the background color of a webpage dynamically. The project demonstrates the use of React with Vite for fast development and includes basic state management to handle user interactions.
 
 Features:
